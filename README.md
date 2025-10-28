@@ -1,5 +1,5 @@
-# My name is Marina Smith
-Learning to code from scratch as part of the App Development course at the Creative Computing Institute (UAL).
+My name is Marina Smith
+I learn to code from scratch as part of the App Development course at the Creative Computing Institute (UAL).
 
 I studied Fine Art at Central Saint Martins, where my practice focused on sexuality, vulnerability, and power.  
 For several years I explored pornography — both as a subject and as a medium — trying to understand what drives people to expose themselves, why vulnerability can feel like connection, and where choice becomes dependence.
