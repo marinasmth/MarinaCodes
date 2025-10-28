@@ -18,4 +18,4 @@ Learning to code is part of that experiment: a way to understand technology from
 - Swift and Xcode  
 - VisionOS and spatial interaction  
 - Interfaces of care and control
- 
+- Machine Learning foundations with Xiaowan Yi 
